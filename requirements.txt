@@ -1,0 +1,6 @@
+streamlit
+agno==3.0.10
+groq
+python-dotenv
+youtube-transcript-api
+pandas
